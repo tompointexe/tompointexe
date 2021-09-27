@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Tom alias Tom.exe
 
-- 🔭 I’m currently working on a vrchat bot and it was sayed to be "okey" garde for the code 😂
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning too much for my brain
-- 👯 I’m looking to collaborate on GongGongEvents
-- 🤔 I’m looking for help with to be honest, idk
 - 💬 Ask me about everything :)
-- 📫 How to reach me: discord mainly, twitch, yes
+- 📫 How to reach me: discord mainly, twitter, yes
 - 😄 Pronouns: he/him | il/lui
 - ⚡ Fun fact: i never learned programing in a school, but it just works
 
