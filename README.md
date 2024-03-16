@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Tom alias Tom.exe
 
-- 🔭 I’m currently working on a private project
+- 🔭 I’m currently working on MiningRigsManager
 - 🌱 I’m currently learning how to do API's with nodejs and express, i'm loving it
 - 💬 Ask me about everything :)
-- 📫 How to reach me: discord mainly, twitter, contact@tompointexe.fr
+- 📫 How to reach me: discord mainly, X (Twitter), contact@tompointexe.fr
 - 😄 Pronouns: he/him | il/lui
 - ⚡ Fun fact: i never learned programing in a school, but it just works
 
