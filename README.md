@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Tom alias Tom.exe
 
-- 🔭 I’m currently working on MiningRigsManager
-- 🌱 I’m currently learning how to do API's with nodejs and express, i'm loving it
+- 🔭 I’m currently working on too many things
+- 🌱 I’m learning a lot of things everyday
 - 💬 Ask me about everything :)
-- 📫 How to reach me: discord mainly, X (Twitter), contact@tompointexe.fr
+- 📫 How to reach me: discord mainly, BlueSky, contact@tompointexe.fr
 - 😄 Pronouns: he/him | il/lui
-- ⚡ Fun fact: i never learned programing in a school, but it just works
+- ⚡ Fun fact: i never learned programing in a school, but [it just works](https://www.youtube.com/watch?v=YPN0qhSyWy8)
+- 🥽 Big VR Nerd, producing content entirely in vr, and more !!
 
 
 <!--
